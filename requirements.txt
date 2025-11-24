@@ -1,5 +1,0 @@
-google-generativeai
-python-dotenv
-duckduckgo-search
-colorama
-streamlit
